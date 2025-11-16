@@ -7,11 +7,11 @@ resources:
 - backend/service.yml
 - frontend/service.yml
   
+
 images:
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/backend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/backend
-  newTag: v1.0
-
+  newTag: e95773898b05bcd13f3b4638c8b87d95996dd4c0
 - name: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
   newName: 654654554686.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
   newTag: v1.0
