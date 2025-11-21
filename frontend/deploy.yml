@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
+        image: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend:v1.0
         ports:
         - containerPort: 80
