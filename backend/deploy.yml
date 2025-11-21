@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/backend:v1.0
+        image: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/backend
         ports:
         - containerPort: 80
