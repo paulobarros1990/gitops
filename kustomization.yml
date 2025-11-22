@@ -11,7 +11,7 @@ resources:
 images:
 - name: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/backend
   newName: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/backend
-  newTag: d06b7eef7328ea5a8f43dc5c3aaad5701ee0e22a
+  newTag: 2fccce205c75a399f22723cdc8aef55a8ad87ce5
 - name: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
   newName: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
   newTag: 833f241bef0f8133b940e754a61c6115bb2ddde3
