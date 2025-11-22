@@ -14,4 +14,4 @@ images:
   newTag: 3fab94206e16a3e352edf04934f8c4fb4e8a88da
 - name: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
   newName: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
-  newTag: v1.0
+  newTag: 3fab94206e16a3e352edf04934f8c4fb4e8a88da
