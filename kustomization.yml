@@ -14,4 +14,4 @@ images:
   newTag: d06b7eef7328ea5a8f43dc5c3aaad5701ee0e22a
 - name: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
   newName: 649795374786.dkr.ecr.us-east-1.amazonaws.com/dvn-nov-workshop/production/frontend
-  newTag: 8164d59a393886d86f225b71d0435dcb624eb401
+  newTag: 833f241bef0f8133b940e754a61c6115bb2ddde3
